@@ -6,7 +6,7 @@ Write Terraform code that configures the GitHub repository according to the foll
 
 2. A branch named `develop` should be created as default branch. 
 
-3. Protect the `main` and `develop` branches according to these rules: 
+3. Protect the `main` and `develop` branches according  to these rules: 
 - a user cannot merge into both branches without a pull request
 - merging into the `develop` branch is allowed only if there are two approvals  
 - merging into the `main` branch is allowed only if the owner has approved the pull  request
