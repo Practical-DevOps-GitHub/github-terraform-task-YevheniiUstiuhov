@@ -2,7 +2,7 @@
  
 Write Terraform code that configures the GitHub repository according to the following requirements, execute it and save your Terraform code in a repository secret named `TERRAFORM`.  
 
-1. The GitHub repository should assign user `softservedata` as a collaborator.
+1. The GitHub repository should assign user `softservedata` as a collaborator. 
  
 2. A branch named `develop` should be created as default branch.  
  
